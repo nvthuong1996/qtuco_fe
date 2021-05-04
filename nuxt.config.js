@@ -27,7 +27,7 @@ export default {
       },
       {
         name: 'og:image',
-        content: '/introduction.jpeg',
+        content: '/logo.png',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/logo.png' }],
