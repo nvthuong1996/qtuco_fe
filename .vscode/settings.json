@@ -1,0 +1,19 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "cSpell.words": ["maxsize", "tailable", "vova", "YYYYMMDDHHmmss"],
+  "cSpell.ignorePaths": [
+    "**/package-lock.json",
+    "**/node_modules/**",
+    "**/vscode-extension/**",
+    "**/.git/objects/**",
+    ".vscode",
+    "src/config/**"
+  ],
+  // "files.watcherExclude": {
+  //   "**/**/*": true
+  // },
+  "remote.WSL.fileWatcher.polling": true
+}
