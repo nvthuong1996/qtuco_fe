@@ -9,8 +9,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - qtuco_fe',
-    title: 'qtuco_fe',
+    title: 'QTOCU - Năng lượng cho tương lai',
     htmlAttrs: {
       lang: 'en',
     },
