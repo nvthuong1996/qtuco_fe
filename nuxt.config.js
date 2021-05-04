@@ -17,6 +17,18 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
+      {
+        name: 'og:title',
+        content: 'QTUCO',
+      },
+      {
+        name: 'og:description',
+        content: 'Năng lượng cho tương lai',
+      },
+      {
+        name: 'og:image',
+        content: '/introduction.jpeg',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/logo.png' }],
   },
