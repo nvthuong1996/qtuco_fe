@@ -17,8 +17,8 @@
                     v-for="(product, index) in category.products"
                     :key="index"
                     cols="12"
-                    md="3"
-                    sm="4"
+                    md="4"
+                    sm="6"
                   >
                     <Product :product="product" :category-id="category.id" />
                   </v-col>
@@ -48,6 +48,7 @@ export default {
 #products {
   .title-text {
     width: 340px;
+    max-width: 100%;
     padding-top: 5px;
     transform: skew(-10deg);
     cursor: pointer;

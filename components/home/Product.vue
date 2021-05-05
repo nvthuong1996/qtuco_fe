@@ -20,6 +20,7 @@
 
       <v-card-actions>
         <v-btn color="orange" text> Liên hệ: 0823 282 292 </v-btn>
+        <v-spacer></v-spacer>
         <v-btn v-if="categoryId == '4'" icon @click="show = !show">
           <v-icon>{{ show ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
         </v-btn>
