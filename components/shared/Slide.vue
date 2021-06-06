@@ -17,9 +17,7 @@
             />
             <div class="slide-box position-absolute pa-12">
               <div class="slide-box--title">Công Ty TNHH QTUCO</div>
-              <div class="slide-box--description">
-                Luôn Đồng Hành Cùng Bạn!!!
-              </div>
+              <div class="slide-box--description">Lớn mạnh cùng đất nước</div>
             </div>
           </v-row>
         </v-sheet>
