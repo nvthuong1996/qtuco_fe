@@ -20,8 +20,8 @@
                     v-for="(project, index) in category.projects"
                     :key="index"
                     cols="12"
-                    md="3"
-                    sm="4"
+                    md="4"
+                    sm="6"
                   >
                     <Project :project="project" />
                   </v-col>
@@ -49,6 +49,7 @@ export default {
 #projects {
   .title-text {
     width: 340px;
+    max-width: 100%;
     padding-top: 5px;
     transform: skew(-10deg);
     cursor: pointer;

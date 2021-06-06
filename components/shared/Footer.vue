@@ -2,7 +2,7 @@
   <div class="footer orange">
     <div class="container white--text">
       <v-row class="pa-0 ma-0">
-        <v-col class="col-md-6">
+        <v-col class="col-md-6 col-12">
           <div class="footer-widget">
             <h4>THÔNG TIN CÔNG TY</h4>
             <ul class="list-menu information pa-0">
@@ -27,7 +27,7 @@
             </ul>
           </div>
         </v-col>
-        <v-col class="col-md-4" style="padding-left: 70px">
+        <v-col class="col-md-4 col-12 pl-md-12">
           <div class="footer-widget">
             <h4>LĨNH VỰC HOẠT ĐỘNG</h4>
             <ul class="list-menu has-toggle">
@@ -38,9 +38,9 @@
             </ul>
           </div>
         </v-col>
-        <v-col class="col-md-2">
+        <v-col class="col-md-2 col-12">
           <v-img
-            class="logo"
+            class="logo ma-auto"
             :src="require('@/assets/home/logo.png')"
             alt="default-avatar"
           />
