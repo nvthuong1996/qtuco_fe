@@ -31,10 +31,10 @@
           <div class="footer-widget">
             <h4>LĨNH VỰC HOẠT ĐỘNG</h4>
             <ul class="list-menu has-toggle">
-              <li>Cung cấp sản phẩm NLMT</li>
-              <li>Sản xuất sản phẩm NLMT</li>
-              <li>Lắp đặt điện mặt trời</li>
-              <li>Thi công xây lắp, xây dựng xưởng NLMT</li>
+              <li>Sản xuất, cung cấp các sản phẩm điện Mặt trời, điện gió</li>
+              <li>Thi công lắp đặt điện mặt trời, điện gió</li>
+              <li>Tổng thầu MEP</li>
+              <li>Tổng thầu xây dựng, xây lắp</li>
             </ul>
           </div>
         </v-col>
