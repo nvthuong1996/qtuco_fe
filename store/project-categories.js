@@ -78,7 +78,7 @@ export const state = () => ({
         },
         {
           id: 15,
-          name: 'Dự án <br/> Trạm áp dụng KCN Kiện Khê',
+          name: 'Dự án <br/> Trạm biến áp KCN Kiện Khê',
           images: ['kh1.jpeg', 'kh2.jpeg', 'kh3.jpeg', 'kh4.jpeg', 'kh5.jpeg', 'kh6.jpeg'],
           wattage: '110kV',
           description: `<strong>Địa điểm:</strong> Thị Trấn Kiện Khê - Hà Nam<br/>
