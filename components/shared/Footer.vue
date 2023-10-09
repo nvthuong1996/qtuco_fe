@@ -7,8 +7,7 @@
             <h4>THÔNG TIN CÔNG TY</h4>
             <ul class="list-menu information pa-0">
               <li>
-                <v-icon class="subtitle-2"> mdi-map-marker </v-icon> Số 154, Phố
-                Thanh Am, Phường Thượng Thanh, Quận Long Biên, TP.Hà Nội
+                <v-icon class="subtitle-2"> mdi-map-marker </v-icon>Số 2, Ngõ 73 Đường Nguyễn Trãi, Quận Thanh Xuân, TP.Hà Nội.
               </li>
               <li>
                 <v-icon class="subtitle-2"> mdi-phone </v-icon>
