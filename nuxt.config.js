@@ -7,6 +7,10 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  // Disable Nuxt loading indicators / splash screens
+  loading: false,
+  loadingIndicator: false,
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'QTUCO - Năng lượng cho tương lai',

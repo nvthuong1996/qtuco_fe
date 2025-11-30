@@ -1,6 +1,7 @@
 <template>
   <v-app id="app">
     <Header />
+    <Slide />
     <v-main>
       <nuxt />
     </v-main>
@@ -10,11 +11,13 @@
 
 <script>
 import Header from '@/components/shared/Header'
+import Slide from '@/components/shared/Slide'
 import Footer from '@/components/shared/Footer'
 
 export default {
   components: {
     Header,
+    Slide,
     Footer,
   },
   data() {
